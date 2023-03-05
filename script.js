@@ -10,7 +10,7 @@
             whiteList.appendChild(contEl);
             var box = document.createElement('input');
             box.type="checkbox"
-            box.className="box15"
+            box.className="box16"
             
              
          box.addEventListener('click', function(){
